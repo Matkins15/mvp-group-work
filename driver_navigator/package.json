@@ -1,0 +1,16 @@
+{
+  "name": "driver_navigator",
+  "version": "1.0.0",
+  "description": "\"driver_navigator_lab\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "\"matt_rush_hassan\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "hbs": "^4.0.1"
+  }
+}
